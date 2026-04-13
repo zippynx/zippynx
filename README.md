@@ -33,4 +33,4 @@ I'm Learning HTML CSS JS And Python 🚀
 
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=zippynx&theme=dark)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=zippynx&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zippynx&show_icons=true&theme=tokyonight)
