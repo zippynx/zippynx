@@ -31,6 +31,6 @@ I'm Learning HTML CSS JS And Python 🚀
 
 ## 📊 GitHub Stats:
 
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=dark)
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=zippynx&theme=dark)
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?zippynx=USERNAME&theme=react-dark)
