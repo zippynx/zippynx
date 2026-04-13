@@ -5,6 +5,10 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+# Tambahan ini WAJIB agar bot GitHub diizinkan membuat file baru
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
