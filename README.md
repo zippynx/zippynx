@@ -27,4 +27,4 @@ Currently exploring Python, AI, and software development while building real-wor
 
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=zippynx&theme=dark)
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=zippynx&theme=react-dark)
