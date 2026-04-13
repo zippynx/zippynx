@@ -27,6 +27,7 @@ Currently exploring Python, AI, and software development while building real-wor
 
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=zippynx&theme=dark)
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/zippynx/zippynx/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zippynx&theme=dark&hide_border=true" alt="Zippynx's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zippynx&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
