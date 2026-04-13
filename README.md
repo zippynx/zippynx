@@ -23,8 +23,10 @@ Currently exploring Python, AI, and software development while building real-wor
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zippynx&theme=dark&hide_border=true" alt="Zippynx's Streak" />
-  <br>
-  <img src="https://raw.githubusercontent.com/zippynx/zippynx/output/github-contribution-grid-snake.svg" alt="Ular Kontribusi" />
-</div>
+## 📊 GitHub Stats:
+
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=zippynx&theme=dark)
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/zippynx/zippynx/blob/output/github-contribution-grid-snake.svg)
