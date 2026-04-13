@@ -1,6 +1,6 @@
 # Hi i'm Zippynx 👋
 
-Engineer | Tech Enthusiast | Lifelong Learner From Indonesia 🇮🇩
+Engineer 🚀 | Tech Enthusiast 💻 | Lifelong Learner 📚 | 🇮🇩
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/)
@@ -33,4 +33,4 @@ I'm Learning HTML CSS JS And Python 🚀
 
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=zippynx&theme=dark)
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=zippynx&theme=react-dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=zippynx&show_icons=true&theme=tokyonight)
