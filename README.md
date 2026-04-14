@@ -29,4 +29,4 @@ Currently exploring Python, AI, and software development while building real-wor
 
 ## Contribution 
 
-![Snake](https://github.com/zippynx/zippynx/raw/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/zippynx/zippynx/raw/output/github-contribution-grid-snake-dark.svg)
