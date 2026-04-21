@@ -25,8 +25,8 @@ Currently exploring Python, AI, and software development while building real-wor
 
 ## 📊 GitHub Stats:
 
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=zippynx&theme=dark)
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=zippynx&theme=dark&v=2)
 
 ## Contribution 
 
-![Snake](https://github.com/zippynx/zippynx/raw/output/github-contribution-grid-snake-dark.svg?v=1)
+![Snake](https://github.com/zippynx/zippynx/raw/output/github-contribution-grid-snake-dark.svg?v=2)
