@@ -5,7 +5,6 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
-# Tambahan ini WAJIB agar bot GitHub diizinkan membuat file baru
 permissions:
   contents: write
 
@@ -13,15 +12,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Menggunakan versi svg-only agar eksekusi lebih cepat
+
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=navy
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=navy
 
-      # Mendorong hasil gambar ke branch 'output'
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
